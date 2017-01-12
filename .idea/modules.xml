@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/../folding-cell/folding-cell.iml" filepath="$PROJECT_DIR$/../folding-cell/folding-cell.iml" />
       <module fileurl="file://$PROJECT_DIR$/../folding-cell-android-master.iml" filepath="$PROJECT_DIR$/../folding-cell-android-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/folding-cell-listview-example.iml" filepath="$PROJECT_DIR$/folding-cell-listview-example.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../folding-cell-simple-example/folding-cell-simple-example.iml" filepath="$PROJECT_DIR$/../folding-cell-simple-example/folding-cell-simple-example.iml" />
     </modules>
   </component>
 </project>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ramotion.foldingcell.examples">
+    package="com.mazinaltokhais.riyadhcalendar.examples">
 
 
-    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
     <uses-permission android:name="android.permission.READ_CALENDAR" />
     <uses-permission android:name="android.permission.WRITE_CALENDAR" />
     <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
@@ -28,7 +30,7 @@
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
             android:value="your_key"/>
-        <activity android:name=".listview.MainActivity">
+        <activity android:name="com.mazinaltokhais.riyadhcalendar.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -1,4 +1,4 @@
-package com.ramotion.foldingcell.examples.listview;
+package com.mazinaltokhais.riyadhcalendar;
 
 import android.content.Context;
 import android.content.Intent;
@@ -13,8 +13,7 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.ramotion.foldingcell.FoldingCell;
-import com.ramotion.foldingcell.examples.R;
+import com.mazinaltokhais.riyadhcalendar.examples.R;
 import com.squareup.picasso.Picasso;
 
 import java.text.SimpleDateFormat;
@@ -22,8 +21,6 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.HashSet;
 import java.util.List;
-
-import util.DynamicHeightTextView;
 
 /**
  * Simple example of ListAdapter for using with Folding Cell

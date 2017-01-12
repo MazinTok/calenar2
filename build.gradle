@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
-group = 'com.ramotion.foldingcell.examples'
+group = 'com.mazinaltokhais.riyadhcalendar'
 version = '1.0.0'
 
 android {
     compileSdkVersion 23
     buildToolsVersion '23.0.2'
     defaultConfig {
-        applicationId 'com.ramotion.foldingcell.examples.listview'
+        applicationId 'com.mazinaltokhais.riyadhcalendar'
         minSdkVersion 17
         targetSdkVersion 23
         versionCode 1

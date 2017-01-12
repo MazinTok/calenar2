@@ -1,4 +1,4 @@
-package com.ramotion.foldingcell.examples.listview;
+package com.mazinaltokhais.riyadhcalendar;
 
 import android.graphics.Color;
 import android.os.AsyncTask;
@@ -9,9 +9,7 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import com.google.android.gms.tasks.Task;
-import com.ramotion.foldingcell.FoldingCell;
-import com.ramotion.foldingcell.examples.R;
+import com.mazinaltokhais.riyadhcalendar.examples.R;
 
 import java.util.ArrayList;
 

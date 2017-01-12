@@ -20,6 +20,6 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:scrollbars="none"
-    tools:context=".listview.MainActivity" />
+    tools:context="com.mazinaltokhais.riyadhcalendar.MainActivity" />
 
 </jp.co.recruit_lifestyle.android.widget.WaveSwipeRefreshLayout>
